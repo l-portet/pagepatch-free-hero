@@ -1,0 +1,3 @@
+PagePatch sample license
+
+You may use, modify and redistribute the original HTML, CSS and report text in this sample, including commercially. No attribution is required. No third-party imagery, fonts or scripts are included. The illustrative business and product claims are fictional; do not present them as real customer results. Assets are supplied as-is without a warranty of conversion results or suitability for a particular website. This permission concerns this sample only and does not waive any rights in separately supplied client materials.

@@ -8,8 +8,8 @@ A single-file hero section for a fictional design-feedback product, with an inte
 
 ## Use it
 
-1. Download this repository using **Code → Download ZIP**, or clone it.
-2. Open `START-HERE.html`, then `hero.html`.
+1. [Download the free sample ZIP](https://github.com/l-portet/pagepatch-free-hero/releases/download/sample-v1.0.0/pagepatch-free-worked-example.zip) (about 10 KB; no account or payment).
+2. Unzip the download, then open `START-HERE.html` and choose `hero.html`.
 3. Edit `hero.html` in a text editor. Replace the fictional product details with your own verified facts.
 4. Copy the block marked `PAGEPATCH HERO` and its scoped `.pp-*` styles into your page, then replace action links with your real destinations.
 5. Check the integrated page at narrow widths, with keyboard navigation, and at 200% text zoom. Basic HTML/CSS skills are needed.

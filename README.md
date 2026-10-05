@@ -4,7 +4,7 @@ A single-file hero section for a fictional design-feedback product, with an inte
 
 **AI-generated code and explanations.** The business is fictional. These design changes are hypotheses, with no measured conversion improvement or customer results claimed.
 
-[Try the live hero](https://pagepatch-fix-pack.p-lucas.chatgpt.site/sample-hero.html) · [See the before page](https://pagepatch-fix-pack.p-lucas.chatgpt.site/sample-before.html) · [Read the explanation](report.md)
+[Try the live hero](https://pagepatch-fix-pack.p-lucas.chatgpt.site/sample-hero.html) · [See the before page](https://pagepatch-fix-pack.p-lucas.chatgpt.site/sample-before.html) · [Read the explanation](report.md) · [Edit the HTML/CSS in your browser](https://jsfiddle.net/k7um8q5w/)
 
 ## Use it
 

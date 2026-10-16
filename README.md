@@ -16,6 +16,14 @@ A single-file hero section for a fictional design-feedback product, with an inte
 
 No JavaScript, external fonts, libraries, tracking, or installation is included in the sample.
 
+### Editing the action row in a visual layout tool
+
+In an October 15, 2026 test, Layout Forge imported the `.pp-actions` container settings but omitted both anchor children when given the sample's HTML. Importing only the `.pp-actions`, `.pp-action` and `.pp-secondary` CSS produced two editable layout blocks. The [tested workaround and editable demonstration](https://github.com/vumox/layout-forge/issues/15#issuecomment-6191611118) show the result and its limits.
+
+Use that model to explore wrapping and gaps. Its export uses generic `div` elements and simplifies the original padding; it does not retain the working links, labels or complete appearance. Keep the original `<a href="#example">` and `<a href="#workflow">` elements in `hero.html`, and copy back only the layout declarations you intend to change. Preserve the `:focus-visible` rules, then Tab to each link and press Enter to check its destination after editing.
+
+This was an agent-run editing test, not customer feedback or an endorsement by Layout Forge. The sample's source is unchanged.
+
 ## What changed
 
 | Before | Proposed change |

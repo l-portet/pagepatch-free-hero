@@ -16,6 +16,12 @@ A single-file hero section for a fictional design-feedback product, with an inte
 
 No JavaScript, external fonts, libraries, tracking, or installation is included in the sample.
 
+### Start your own GitHub copy
+
+Choose **Use this template → Create a new repository** above the file list to copy the sample into your own GitHub repository. This route requires a GitHub account; the ZIP download above does not.
+
+Start from `hero.html`. Keep `before.html` as the intentionally flawed comparison, and read `START-HERE.html` for the file guide. Creating the repository copies the files; it does not publish a live website. Replace the fictional claims and example links before using the hero for a real offer.
+
 ### Editing the action row in a visual layout tool
 
 In an October 15, 2026 test, Layout Forge imported the `.pp-actions` container settings but omitted both anchor children when given the sample's HTML. Importing only the `.pp-actions`, `.pp-action` and `.pp-secondary` CSS produced two editable layout blocks. The [tested workaround and editable demonstration](https://github.com/vumox/layout-forge/issues/15#issuecomment-6191611118) show the result and its limits.

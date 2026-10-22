@@ -18,7 +18,7 @@ No JavaScript, external fonts, libraries, tracking, or installation is included 
 
 ### Start your own GitHub copy
 
-Choose **Use this template → Create a new repository** above the file list to copy the sample into your own GitHub repository. This route requires a GitHub account; the ZIP download above does not.
+Sign in to GitHub, then choose **Use this template → Create a new repository** above the file list to copy the sample into your own GitHub repository. This route requires a GitHub account; the ZIP download above does not.
 
 Start from `hero.html`. Keep `before.html` as the intentionally flawed comparison, and read `START-HERE.html` for the file guide. Creating the repository copies the files; it does not publish a live website. Replace the fictional claims and example links before using the hero for a real offer.
 

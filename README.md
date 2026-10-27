@@ -30,6 +30,12 @@ Use that model to explore wrapping and gaps. Its export uses generic `div` eleme
 
 This was an agent-run editing test, not customer feedback or an endorsement by Layout Forge. The sample's source is unchanged.
 
+### Testing links in embedded previews
+
+If a section link opens an editor's home page inside its preview, test the same file outside that editor before changing the sample. In an October 26, 2026 agent test, CodeForge Mobile rendered `hero.html` but resolved its `#example` link against the editor's address. Clicking it replaced the preview with the editor's home page; a separate minimal HTML file reproduced the behavior. The [public reproduction and test limits](https://github.com/khalidabdullahh/CodeForgeMobile/discussions/15#discussioncomment-19195110) include the steps.
+
+For this check, open the [standalone live hero](https://pagepatch-fix-pack.p-lucas.chatgpt.site/sample-hero.html) or your downloaded `hero.html`, then activate **See an example review**. It should stay on that page and reach the example section. Preserve the `href="#example"` link and the matching `id="example"` when integrating the sample. This is an observed editor-preview limitation, not a customer report or a claim about all preview tools.
+
 ## What changed
 
 | Before | Proposed change |
